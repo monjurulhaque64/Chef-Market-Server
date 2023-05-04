@@ -1,0 +1,326 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://yt3.googleusercontent.com/bFpwiiOB_NLCVsIcVQ9UcwBjb1RzipnMmtNfLSWpeIaHboyGkBCq4KBitmovRbStk9WvIWIZOyo=s900-c-k-c0x00ffffff-no-rj",
+      "chefName": "Gordon Ramsay",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 20,
+      "likes": 1000,
+      "bio": "Gordon James Ramsay OBE is a British celebrity chef, restaurateur, television personality and writer. His restaurant group, Gordon Ramsay Restaurants, was founded in 1997 and has been awarded 17 Michelin stars overall; it currently holds a total of seven. ",
+      "recipes": [
+        {
+          "recipe_id": 1,
+          "name": "Grilled Salmon",
+          "ingredients": [
+            "4 salmon fillets",
+            "2 lemons",
+            "4 cloves garlic",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+          ],
+          "cookingMethod": "1. Preheat grill to medium-high heat.\n2. Season the salmon fillets with salt and pepper.\n3. Cut the lemons into slices and crush the garlic.\n4. Rub the salmon fillets with olive oil, lemon slices, and garlic.\n5. Place the fillets on the grill and cook for 5-7 minutes on each side, or until the salmon is cooked through.\n6. Serve hot with your favorite side dish.",
+          "rating": 4.5
+        },
+        {
+          "recipe_id": 2,
+          "name": "Beef Stew",
+          "ingredients": [
+            "2 lbs beef stew meat",
+            "4 carrots, peeled and sliced",
+            "4 potatoes, peeled and cubed",
+            "2 onions, chopped",
+            "3 cloves garlic, minced",
+            "2 tbsp olive oil",
+            "1 can beef broth",
+            "1 cup red wine",
+            "Salt and pepper to taste"
+          ],
+          "cookingMethod": "1. In a large pot, heat the olive oil over medium-high heat.\n2. Add the beef stew meat and brown on all sides.\n3. Add the onions and garlic and cook for 2-3 minutes.\n4. Add the beef broth, red wine, carrots, and potatoes.\n5. Bring to a boil, then reduce heat and simmer for 1-2 hours, or until the meat is tender and the vegetables are cooked through.\n6. Season with salt and pepper to taste.\n7. Serve hot with crusty bread or over mashed potatoes.",
+          "rating": 4.8
+        },
+        {
+          "recipe_id": 3,
+          "name": "Pasta Carbonara",
+          "ingredients": [
+            "1 lb spaghetti",
+            "1/2 lb pancetta, diced",
+            "4 cloves garlic, minced",
+            "4 eggs",
+            "1/2 cup grated Parmesan cheese",
+            "Salt and pepper to taste"
+          ],
+          "cookingMethod": "1. Cook the spaghetti according to package instructions.\n2. In a large skillet, cook the pancetta over medium heat until crispy.\n3. Add the garlic and cook for another minute.\n4. In a small bowl, whisk together the eggs and Parmesan cheese.\n5. Drain the spaghetti and add it to the skillet with the pancetta and garlic.\n6. Turn off the heat and pour in the egg mixture, stirring quickly to coat the spaghetti.\n7. Season with salt and pepper to taste.\n8. Serve hot with extra Parmesan cheese.",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "name": "Jamie Oliver",
+        "picture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTHnwPRB1EwxU12C0E-pCg91OZkoN1qhNfamHKuxleU34B67wbJubi-BDg0vsoqE2iaGVrHjvn_xahqs7A",
+        "experience": 12,
+        "numRecipes": 56,
+        "likes": 120,
+        "bio": "James Trevor Oliver MBE OSI is an English restaurateur and cookbook author. He is known for his casual approach to cuisine, which has led him to front numerous television shows and open many restaurants. Oliver reached the public eye when his series The Naked Chef premiered in 1999.",
+        "recipes": [
+          {
+            "recipe_id": 1,
+            "name": "Chocolate Lava Cake",
+            "ingredients": [
+              "4 oz dark chocolate",
+              "1/2 cup unsalted butter",
+              "1/2 cup granulated sugar",
+              "2 large eggs",
+              "1/4 cup all-purpose flour"
+            ],
+            "cookingMethod": "1. Preheat oven to 425°F. Grease four 4-oz ramekins with butter and dust with cocoa powder.\n2. Melt the chocolate and butter together in a double boiler or in the microwave.\n3. In a separate bowl, whisk together the sugar and eggs until light and fluffy.\n4. Add the chocolate mixture to the egg mixture and whisk to combine.\n5. Add the flour and whisk until just combined.\n6. Divide the batter among the ramekins.\n7. Bake for 12-14 minutes until the edges are set but the center is still jiggly.\n8. Run a knife around the edges of the ramekins and invert onto plates. Serve immediately.",
+            "rating": 4.5
+          },
+          {
+            "recipe_id": 2,
+            "name": "Lemon Tart",
+            "ingredients": [
+              "1 1/4 cups all-purpose flour",
+              "1/4 cup granulated sugar",
+              "1/4 tsp salt",
+              "1/2 cup unsalted butter, chilled and cubed",
+              "2 tbsp ice water",
+              "4 large eggs",
+              "3/4 cup granulated sugar",
+              "1/2 cup fresh lemon juice",
+              "1/2 cup unsalted butter, cubed and at room temperature"
+            ],
+            "cookingMethod": "1. In a large bowl, whisk together the flour, sugar, and salt.\n2. Add the butter and use a pastry cutter or your hands to blend until the mixture resembles coarse crumbs.\n3. Add the ice water and stir until the dough comes together in a ball.\n4. Press the dough into a 9-inch tart pan and prick the bottom all over with a fork.\n5. Refrigerate for at least 30 minutes.\n6. Preheat the oven to 350°F.\n7. Line the crust with parchment paper and fill with pie weights or dried beans.\n8. Bake for 20 minutes, then remove the weights and parchment and bake for an additional 10 minutes.\n9. In a large bowl, whisk together the eggs, sugar, and lemon juice.\n10. Add the butter and whisk until smooth.\n11. Pour the mixture into the crust and bake for 20-25 minutes until the filling is set.\n12. Let cool completely before slicing and serving.",
+            "rating": 4.2
+          },
+          {
+            "recipe_id": 3,
+            "name": "Pasta Carbonara",
+            "ingredients": [
+              "1 lb spaghetti",
+              "1/2 lb pancetta, diced",
+              "4 cloves garlic, minced",
+              "4 eggs",
+              "1/2 cup grated Parmesan cheese",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Cook the spaghetti according to package instructions.\n2. In a large skillet, cook the pancetta over medium heat until crispy.\n3. Add the garlic and cook for another minute.\n4. In a small bowl, whisk together the eggs and Parmesan cheese.\n5. Drain the spaghetti and add it to the skillet with the pancetta and garlic.\n6. Turn off the heat and pour in the egg mixture, stirring quickly to coat the spaghetti.\n7. Season with salt and pepper to taste.\n8. Serve hot with extra Parmesan cheese.",
+            "rating": 4.2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRO5102uvC8SMiiyhlepFrq5TvtU61qNy-HN13roIn0QLKznMs-heGDMyWn8YksYu1--AdZl2XPQZ0Wog8",
+        "name": "Heston Blumenthal",
+        "experience": 8,
+        "recipes": 40,
+        "likes": 1500,
+        "bio": "Heston Marc Blumenthal OBE HonFRSC is a British celebrity chef, TV personality and food writer. Blumenthal is regarded as a pioneer of multi-sensory cooking, food pairing and flavour encapsulation. He came to public attention with unusual recipes, such as bacon-and-egg ice cream and snail porridge.",
+        "recipesData": [
+          {
+            "recipe_id": 1,
+            "name": "Chicken Enchiladas",
+            "ingredients": [
+              "8-10 corn tortillas",
+              "2 cups cooked and shredded chicken",
+              "1 cup enchilada sauce",
+              "1 cup grated cheese",
+              "1/2 cup chopped onion"
+            ],
+            "method": "Preheat the oven to 350 degrees F. Warm the tortillas in a dry skillet or over a gas flame until they are pliable. Place a spoonful of chicken in each tortilla and roll up. Place seam-side down in a greased baking dish. Pour the enchilada sauce over the top and sprinkle with cheese and onion. Bake for 20-25 minutes or until hot and bubbly.",
+            "rating": 4.5
+          },
+          {
+            "recipe_id": 2,
+            "name": "Beef Fajitas",
+            "ingredients": [
+              "1 lb. flank steak, thinly sliced",
+              "1 red bell pepper, sliced",
+              "1 green bell pepper, sliced",
+              "1 onion, sliced",
+              "1 tbsp. oil"
+            ],
+            "method": "In a large skillet or wok, heat the oil over high heat. Add the sliced beef and stir-fry for 2-3 minutes or until browned. Add the peppers and onion and stir-fry for an additional 2-3 minutes or until the vegetables are tender. Serve with warm tortillas and your favorite toppings.",
+            "rating": 4.8
+          },
+          {
+            "recipe_id": 3,
+            "name": "Churros",
+            "ingredients": [
+              "1 cup water",
+              "2 tbsp. sugar",
+              "1/2 tsp. salt",
+              "1 cup flour",
+              "2 eggs"
+            ],
+            "method": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "chefPicture": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRlVhcyUZeretmbBQ1I2XrsFWUBQm60EpGM53Eo_dWr_DNLPonDKQj8HzNFi48Q3CWeZpelrI8_bBnDpTo",
+        "chefName": "Marco Pierre White",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 35,
+        "likes": 147,
+        "bio": "Marco Pierre White is a British chef, restaurateur, and televisin personality. He has been dubbed the first celebrity chef and the enfant terrible of the UK restaurant scene. In January 1995, aged 33, White became the first British chef to be awarded three Michelin stars. ",
+        "recipes": [
+          {
+            "recipe_id": 1,
+            "recipeName": "Seared Scallops with Caramelized Leeks",
+            "ingredients": [
+              "1 lb sea scallops, rinsed and patted dry",
+              "2 large leeks, trimmed and sliced",
+              "2 tbsp unsalted butter",
+              "2 tbsp olive oil",
+              "Salt and freshly ground black pepper"
+            ],
+            "cookingMethod": "1. In a large skillet over medium heat, melt the butter and olive oil. Add the leeks and cook, stirring occasionally, until caramelized, about 10-12 minutes. Remove from the skillet and set aside.\n2. Season the scallops with salt and pepper. In the same skillet over high heat, sear the scallops for 2-3 minutes per side, until golden brown and cooked through.\n3. Serve the scallops over a bed of the caramelized leeks.",
+            "rating": 4.5
+          },
+          {
+            "recipe_id": 2,
+            "recipeName": "Roasted Chicken with Root Vegetables",
+            "ingredients": [
+              "1 whole chicken, 3-4 lbs",
+              "2 large carrots, peeled and chopped",
+              "2 parsnips, peeled and chopped",
+              "1 large sweet potato, peeled and chopped",
+              "1 large onion, chopped",
+              "2 tbsp olive oil",
+              "Salt and freshly ground black pepper"
+            ],
+            "cookingMethod": "1. Preheat the oven to 400°F. \n2. In a large bowl, toss the chopped vegetables with 1 tablespoon of olive oil and season with salt and pepper. Spread them out in a large roasting pan. \n3. Rub the chicken with the remaining tablespoon of olive oil and season with salt and pepper. Place the chicken on top of the vegetables. \n4. Roast for 1 hour and 15 minutes, or until the chicken is cooked through and the vegetables are tender. \n5. Serve hot.",
+            "rating": 4.2
+          },
+          {
+            "recipe_id": 3,
+            "name": "Pan-Seared Scallops",
+            "ingredients": [
+              "1 lb scallops",
+              "1 tsp salt",
+              "1/4 tsp black pepper",
+              "2 tbsp butter",
+              "2 tbsp olive oil"
+            ],
+            "method": "1. Pat the scallops dry and season both sides with salt and pepper.\n2. Heat the butter and olive oil in a large skillet over medium-high heat.\n3. Once the butter has melted and the pan is hot, add the scallops in a single layer, making sure they are not touching each other.\n4. Cook the scallops for 2-3 minutes on one side, until a golden-brown crust forms. Flip the scallops and cook for an additional 2-3 minutes on the other side until cooked through.",
+            "rating": 4.5
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "chefName": "Emeril Lagasse",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 45,
+        "likes": 142,
+        "bio": "Emeril John Lagassé III is an American celebrity chef, restaurateur, television personality, cookbook author, and National Best Recipe award winner for his Turkey and Hot Sausage Chili recipe in 2003.",
+        "chefPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQ0zowDIrQKcGhjlOnimd5jcbV8cyx8i26dczJWPr53297lWPOFfHSI5xHGu1qi-tUYC7X0lZg1dB-9CNY",
+        "recipes": [
+          {
+            "recipe_id": 1,
+            "name": "Paella",
+            "ingredients": [
+              "2 cups of short grain rice",
+              "4 cups of chicken broth",
+              "1 pound of chicken breast",
+              "1 pound of shrimp",
+              "1 onion, diced",
+              "4 cloves of garlic, minced",
+              "1 red bell pepper, sliced",
+              "1 green bell pepper, sliced",
+              "1 teaspoon of smoked paprika",
+              "1 teaspoon of saffron threads",
+              "1/2 cup of white wine",
+              "1/4 cup of olive oil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Heat the olive oil in a large paella pan over medium-high heat. \n2. Add the chicken and cook until browned, about 5 minutes. \n3. Add the onions, garlic, and peppers and cook until soft, about 5 minutes. \n4. Add the rice and cook for 1-2 minutes until it is coated with oil. \n5. Add the wine and cook until it is absorbed, about 2 minutes. \n6. Add the chicken broth, smoked paprika, saffron threads, salt, and pepper and stir to combine. \n7. Arrange the shrimp on top of the rice and cook until the rice is tender and the shrimp are cooked through, about 20 minutes. \n8. Remove from heat and let it rest for 5 minutes before serving.",
+            "rating": 4.5
+          },
+          {
+            "recipe_id": 2,
+            "name": "Tortilla Española",
+            "ingredients": [
+              "2 large potatoes, peeled and sliced",
+              "1 large onion, chopped",
+              "6 large eggs",
+              "1/4 cup of olive oil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Heat the olive oil in a large nonstick skillet over medium-high heat. \n2. Add the potatoes and onions and cook, stirring occasionally, until they are soft and golden, about 15-20 minutes. \n3. In a large bowl, beat the eggs and season with salt and pepper. \n4. Add the potato and onion mixture to the eggs and stir to combine. \n5. Pour the mixture back into the skillet and cook over medium-low heat until the bottom is set, about 10 minutes. \n6. Invert the tortilla onto a plate, then slide it back into the skillet and cook until the other side is set, about 5-10 minutes. \n7. Serve hot or at room temperature.",
+            "rating": 4.2
+          },
+          {
+            "recipe_id": 3,
+            "name": "Churros",
+            "ingredients": [
+              "1 cup water",
+              "2 tbsp. sugar",
+              "1/2 tsp. salt",
+              "1 cup flour",
+              "2 eggs"
+            ],
+            "method": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
+            "rating": 4.7
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "chefName": "Anthony Bourdain",
+        "yearsOfExperience": 30,
+        "numberOfRecipes": 75,
+        "likes": 210,
+        "bio": "Anthony Michael Bourdain was an American celebrity chef, author, and travel documentarian who starred in programs focusing on the exploration of international culture, cuisine, and the human condition..",
+        "chefPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRFoFb-DczyYkhZPAmNGANudtdjvVvOi3934diTu48gwl3oxhuAcUn8xwIWslaJhC6mQu7Uew2EGY2ZVic",
+        "recipes": [
+          {
+            "recipe_id": 1,
+            "name": "Sushi Rolls",
+            "ingredients": [
+              "2 cups of sushi rice",
+              "2 cups of water",
+              "1/4 cup of rice vinegar",
+              "2 tablespoons of sugar",
+              "1 tablespoon of salt",
+              "Nori seaweed sheets",
+              "Assorted fillings (avocado, cucumber, crab, tuna, etc.)",
+              "Soy sauce, wasabi, and pickled ginger for serving"
+            ],
+            "cookingMethod": "1. Rinse the rice in a strainer until the water runs clear. \n2. In a medium saucepan, combine the rice and water and bring to a boil. \n3. Reduce the heat to low, cover the pot, and simmer for 18-20 minutes. \n4. In a small saucepan, combine the rice vinegar, sugar, and salt and heat until the sugar dissolves. \n5. When the rice is done, transfer it to a large bowl and add the vinegar mixture. \n6. Use a rice paddle or spatula to gently fold the vinegar mixture into the rice until it is evenly distributed. \n7. Lay a sheet of nori seaweed on a bamboo sushi mat. \n8. Spread a thin layer of rice over the nori, leaving a 1-inch border at the top. \n9. Arrange the fillings in a line across the center of the rice. \n10. Use the mat to roll the sushi tightly, using the border of rice at the top to seal the roll. \n11. Slice the roll into rounds and serve with soy sauce, wasabi, and pickled ginger.",
+            "rating": 4.8
+          },
+          {
+            "recipe_id": 2,
+            "name": "Tortilla Española",
+            "ingredients": [
+              "2 large potatoes, peeled and sliced",
+              "1 large onion, chopped",
+              "6 large eggs",
+              "1/4 cup of olive oil",
+              "Salt and pepper to taste"
+            ],
+            "cookingMethod": "1. Heat the olive oil in a large nonstick skillet over medium-high heat. \n2. Add the potatoes and onions and cook, stirring occasionally, until they are soft and golden, about 15-20 minutes. \n3. In a large bowl, beat the eggs and season with salt and pepper. \n4. Add the potato and onion mixture to the eggs and stir to combine. \n5. Pour the mixture back into the skillet and cook over medium-low heat until the bottom is set, about 10 minutes. \n6. Invert the tortilla onto a plate, then slide it back into the skillet and cook until the other side is set, about 5-10 minutes. \n7. Serve hot or at room temperature.",
+            "rating": 4.5
+          },
+          {
+            "recipe_id": 3,
+            "name": "Churros",
+            "ingredients": [
+              "1 cup water",
+              "2 tbsp. sugar",
+              "1/2 tsp. salt",
+              "1 cup flour",
+              "2 eggs"
+            ],
+            "method": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
+            "rating": 4.7
+          }
+        ]
+      }
+    ]
+    
