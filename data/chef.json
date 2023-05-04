@@ -56,7 +56,7 @@
     },
     {
         "_id": "2",
-        "name": "Jamie Oliver",
+        "chefName": "Jamie Oliver",
         "picture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTHnwPRB1EwxU12C0E-pCg91OZkoN1qhNfamHKuxleU34B67wbJubi-BDg0vsoqE2iaGVrHjvn_xahqs7A",
         "experience": 12,
         "numRecipes": 56,
@@ -95,7 +95,7 @@
           },
           {
             "recipe_id": 3,
-            "name": "Pasta Carbonara",
+            "chefName": "Pasta Carbonara",
             "ingredients": [
               "1 lb spaghetti",
               "1/2 lb pancetta, diced",
@@ -112,7 +112,7 @@
       {
         "_id": "3",
         "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRO5102uvC8SMiiyhlepFrq5TvtU61qNy-HN13roIn0QLKznMs-heGDMyWn8YksYu1--AdZl2XPQZ0Wog8",
-        "name": "Heston Blumenthal",
+        "chefName": "Heston Blumenthal",
         "experience": 8,
         "recipes": 40,
         "likes": 1500,
