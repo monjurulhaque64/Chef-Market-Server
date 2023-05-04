@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "_id": "1",
       "chefPicture": "https://yt3.googleusercontent.com/bFpwiiOB_NLCVsIcVQ9UcwBjb1RzipnMmtNfLSWpeIaHboyGkBCq4KBitmovRbStk9WvIWIZOyo=s900-c-k-c0x00ffffff-no-rj",
       "chefName": "Gordon Ramsay",
       "yearsOfExperience": 10,
@@ -55,7 +55,7 @@
       ]
     },
     {
-        "id": 2,
+        "_id": "2",
         "name": "Jamie Oliver",
         "picture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTHnwPRB1EwxU12C0E-pCg91OZkoN1qhNfamHKuxleU34B67wbJubi-BDg0vsoqE2iaGVrHjvn_xahqs7A",
         "experience": 12,
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "id": 3,
+        "_id": "3",
         "picture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRO5102uvC8SMiiyhlepFrq5TvtU61qNy-HN13roIn0QLKznMs-heGDMyWn8YksYu1--AdZl2XPQZ0Wog8",
         "name": "Heston Blumenthal",
         "experience": 8,
@@ -160,7 +160,7 @@
         ]
       },
       {
-        "id": 4,
+        "_id": "4",
         "chefPicture": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRlVhcyUZeretmbBQ1I2XrsFWUBQm60EpGM53Eo_dWr_DNLPonDKQj8HzNFi48Q3CWeZpelrI8_bBnDpTo",
         "chefName": "Marco Pierre White",
         "yearsOfExperience": 12,
@@ -212,7 +212,7 @@
         ]
       },
       {
-        "id": 5,
+        "_id": "5",
         "chefName": "Emeril Lagasse",
         "yearsOfExperience": 12,
         "numberOfRecipes": 45,
@@ -270,7 +270,7 @@
         ]
       },
       {
-        "id": 6,
+        "_id": "6",
         "chefName": "Anthony Bourdain",
         "yearsOfExperience": 30,
         "numberOfRecipes": 75,
