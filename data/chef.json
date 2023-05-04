@@ -59,7 +59,7 @@
         "chefName": "Jamie Oliver",
         "chefPicture": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcTHnwPRB1EwxU12C0E-pCg91OZkoN1qhNfamHKuxleU34B67wbJubi-BDg0vsoqE2iaGVrHjvn_xahqs7A",
         "yearsOfExperience": 12,
-        "numRecipes": 56,
+        "numberOfRecipes": 56,
         "likes": 120,
         "bio": "James Trevor Oliver MBE OSI is an English restaurateur and cookbook author. He is known for his casual approach to cuisine, which has led him to front numerous television shows and open many restaurants. Oliver reached the public eye when his series The Naked Chef premiered in 1999.",
         "recipes": [
@@ -114,7 +114,7 @@
         "chefPicture": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRO5102uvC8SMiiyhlepFrq5TvtU61qNy-HN13roIn0QLKznMs-heGDMyWn8YksYu1--AdZl2XPQZ0Wog8",
         "chefName": "Heston Blumenthal",
         "yearsOfExperience": 8,
-        "recipes": 40,
+        "numberOfRecipes": 40,
         "likes": 1500,
         "bio": "Heston Marc Blumenthal OBE HonFRSC is a British celebrity chef, TV personality and food writer. Blumenthal is regarded as a pioneer of multi-sensory cooking, food pairing and flavour encapsulation. He came to public attention with unusual recipes, such as bacon-and-egg ice cream and snail porridge.",
         "recipesData": [
