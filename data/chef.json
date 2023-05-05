@@ -117,7 +117,7 @@
         "numberOfRecipes": 40,
         "likes": 1500,
         "bio": "Heston Marc Blumenthal OBE HonFRSC is a British celebrity chef, TV personality and food writer. Blumenthal is regarded as a pioneer of multi-sensory cooking, food pairing and flavour encapsulation. He came to public attention with unusual recipes, such as bacon-and-egg ice cream and snail porridge.",
-        "recipesData": [
+        "recipes": [
           {
             "recipe_id": 1,
             "name": "Chicken Enchiladas",
@@ -128,7 +128,7 @@
               "1 cup grated cheese",
               "1/2 cup chopped onion"
             ],
-            "method": "Preheat the oven to 350 degrees F. Warm the tortillas in a dry skillet or over a gas flame until they are pliable. Place a spoonful of chicken in each tortilla and roll up. Place seam-side down in a greased baking dish. Pour the enchilada sauce over the top and sprinkle with cheese and onion. Bake for 20-25 minutes or until hot and bubbly.",
+            "cookingMethod": "Preheat the oven to 350 degrees F. Warm the tortillas in a dry skillet or over a gas flame until they are pliable. Place a spoonful of chicken in each tortilla and roll up. Place seam-side down in a greased baking dish. Pour the enchilada sauce over the top and sprinkle with cheese and onion. Bake for 20-25 minutes or until hot and bubbly.",
             "rating": 4.5
           },
           {
@@ -141,7 +141,7 @@
               "1 onion, sliced",
               "1 tbsp. oil"
             ],
-            "method": "In a large skillet or wok, heat the oil over high heat. Add the sliced beef and stir-fry for 2-3 minutes or until browned. Add the peppers and onion and stir-fry for an additional 2-3 minutes or until the vegetables are tender. Serve with warm tortillas and your favorite toppings.",
+            "cookingMethod": "In a large skillet or wok, heat the oil over high heat. Add the sliced beef and stir-fry for 2-3 minutes or until browned. Add the peppers and onion and stir-fry for an additional 2-3 minutes or until the vegetables are tender. Serve with warm tortillas and your favorite toppings.",
             "rating": 4.8
           },
           {
@@ -154,7 +154,7 @@
               "1 cup flour",
               "2 eggs"
             ],
-            "method": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
+            "cookingMethod": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
             "rating": 4.7
           }
         ]
@@ -206,7 +206,7 @@
               "2 tbsp butter",
               "2 tbsp olive oil"
             ],
-            "method": "1. Pat the scallops dry and season both sides with salt and pepper.\n2. Heat the butter and olive oil in a large skillet over medium-high heat.\n3. Once the butter has melted and the pan is hot, add the scallops in a single layer, making sure they are not touching each other.\n4. Cook the scallops for 2-3 minutes on one side, until a golden-brown crust forms. Flip the scallops and cook for an additional 2-3 minutes on the other side until cooked through.",
+            "cookingMethod": "1. Pat the scallops dry and season both sides with salt and pepper.\n2. Heat the butter and olive oil in a large skillet over medium-high heat.\n3. Once the butter has melted and the pan is hot, add the scallops in a single layer, making sure they are not touching each other.\n4. Cook the scallops for 2-3 minutes on one side, until a golden-brown crust forms. Flip the scallops and cook for an additional 2-3 minutes on the other side until cooked through.",
             "rating": 4.5
           }
         ]
@@ -264,7 +264,7 @@
               "1 cup flour",
               "2 eggs"
             ],
-            "method": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
+            "cookingMethod": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
             "rating": 4.7
           }
         ]
@@ -317,7 +317,7 @@
               "1 cup flour",
               "2 eggs"
             ],
-            "method": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
+            "cookingMethod": "In a medium saucepan, heat the water, sugar, and salt over medium heat until boiling. Remove from heat and stir in the flour until the mixture forms a ball. Beat in the eggs one at a time, mixing well after each addition. Fill a pastry bag fitted with a star tip with the dough. Heat oil in a deep-fryer or heavy skillet to 375 degrees F. Pipe strips of dough into the hot oil and fry until golden brown. Drain on paper towels and roll in cinnamon sugar.",
             "rating": 4.7
           }
         ]
